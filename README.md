@@ -1,14 +1,14 @@
-# 🏆 Stack Overflow-like Q&A Platform  
+# Fake StackOverflow  
 
 A **full-stack Q&A web application** inspired by **Stack Overflow**, built using the **MERN stack (MongoDB, Express, React, Node.js)** with **MVVM architecture** to ensure clean separation of concerns. The platform allows users to **post, search, and answer questions**, featuring sorting options ("Newest," "Active," "Unanswered"), dynamic routing, and pagination.
 
 ## 🚀 Features  
-✅ **User-friendly Q&A system** – Users can post, search, and answer questions  
-✅ **Sorting & Filtering** – View questions by recent activity, unanswered status, and search by tags  
-✅ **Custom Hooks & Factory Pattern** – Modularized UI logic and routing management  
-✅ **RESTful APIs** – CRUD operations for questions, answers, and user interactions  
-✅ **Pagination & Form Validation** – Ensuring structured data input and smooth navigation  
-✅ **End-to-End Testing with Cypress** – Validating UI behavior and core functionalities  
+**User-friendly Q&A system** – Users can post, search, and answer questions  
+**Sorting & Filtering** – View questions by recent activity, unanswered status, and search by tags  
+**Custom Hooks & Factory Pattern** – Modularized UI logic and routing management  
+**RESTful APIs** – CRUD operations for questions, answers, and user interactions  
+**Pagination & Form Validation** – Ensuring structured data input and smooth navigation  
+**End-to-End Testing with Cypress** – Validating UI behavior and core functionalities  
 
 ## 🛠️ Tech Stack  
 - **Frontend:** React, TypeScript, MVVM Architecture  
@@ -69,7 +69,3 @@ Feel free to submit issues or pull requests! 💡
 
 ## 📜 License  
 MIT License  
-
----
-
-🌟 **Like this project? Give it a star ⭐ and contribute!**  

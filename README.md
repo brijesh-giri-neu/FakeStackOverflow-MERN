@@ -44,15 +44,6 @@ A **full-stack Q&A web application** inspired by **Stack Overflow**, built using
 
 5. **Open in browser:** `http://localhost:3000`
 
-## 🔥 API Endpoints  
-| Method | Endpoint         | Description                 |
-|--------|-----------------|-----------------------------|
-| GET    | `/api/questions` | Fetch all questions        |
-| POST   | `/api/questions` | Create a new question      |
-| GET    | `/api/questions/:id` | Fetch a specific question |
-| POST   | `/api/questions/:id/answers` | Add an answer to a question |
-| GET    | `/api/tags` | Fetch all tags              |
-
 ## 🧪 Running Tests  
 To run **end-to-end tests** with **Cypress**, use:  
 ```sh

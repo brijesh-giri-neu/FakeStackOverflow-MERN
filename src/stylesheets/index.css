@@ -1,0 +1,16 @@
+/* Add global CSS here */
+/* Add CSS stylesheet */
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+    height: 99%;
+}
+
+body,
+#root,
+.fakeso {
+    height: 100%;
+}

@@ -1,0 +1,13 @@
+.answer_question_meta {
+    color: #bbbbbb;
+}
+
+
+.ansButton {
+    margin: 2% 0 2% 2%;
+    background: #3090e2;
+    color: #ffffff;
+    border: #000000 1px solid;
+    font-size: 20px;
+    padding: 5px;
+}

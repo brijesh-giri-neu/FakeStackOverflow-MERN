@@ -1,0 +1,16 @@
+.answer_question_title {
+    max-width: 60%;
+}
+
+.ask-question-button{
+    background: #3090e2;
+    color: #ffffff;
+    border: #000000 1px solid;
+    font-size: 20px;
+    padding: 5px;
+    margin-right: 5%;
+}
+
+.answerHeader{
+    align-items: center;
+}

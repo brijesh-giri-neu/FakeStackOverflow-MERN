@@ -1,6 +1,6 @@
 # StackOverflow-Clone  
 
-A full-stack Q&A web application inspired by Stack Overflow, built using the **MERN stack** (MongoDB, Express, React, Node.js). It provides a dynamic space for developers to ask questions, share knowledge, and engage in discussions.
+A full-stack Q&A web application inspired by Stack Overflow, built using the **MERN stack** (MongoDB, Express, React, Node.js). It replicates the core functionality of StackOverflow to provide a dynamic space for developers to ask questions, share knowledge, and engage in discussions.
 
 ## 🚀 Features  
 - **User-friendly Q&A system** – Users can post, search, and answer questions  

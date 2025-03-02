@@ -3,8 +3,9 @@
 A full-stack Q&A web application inspired by Stack Overflow, built using the **MERN stack** (MongoDB, Express, React, Node.js). It replicates the core functionality of StackOverflow to provide a dynamic space for developers to ask questions, share knowledge, and engage in discussions.
 
 ## Features  
-- **User-friendly Q&A system** – Users can post, search, and answer questions  
-- **Sorting & Filtering** – View questions by recent activity, unanswered status, and search by tags  
+- **Q&A system** – Users can post, search, and answer questions and comment on existing answers  
+- **Sorting & Filtering** – View questions by recent activity, unanswered status, and search by tags
+- **Voting system** – Upvote and downvote questions & answers for community-driven quality control
 - **Custom Hooks & Factory Pattern** – Modularized UI logic and routing management  
 - **RESTful APIs** – CRUD operations for questions, answers, and user interactions  
 - **Pagination & Form Validation** – Ensuring structured data input and smooth navigation  
@@ -52,8 +53,10 @@ npm run test
 ```
 
 ## Future Enhancements  
-- User authentication (JWT-based login/signup)  
-- Real-time updates with WebSockets  
+- User authentication (JWT-based login/signup)
+- Content Moderation and Flagging
+- Real-time updates with WebSockets
+- API Rate Limits & Abuse Prevention – Ensure fair use and prevent bot spam
 - Improved UI with Material-UI/Tailwind  
 
 ## Contributing  

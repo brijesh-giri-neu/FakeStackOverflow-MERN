@@ -6,9 +6,9 @@ A full-stack Q&A web application inspired by Stack Overflow, built using the **M
 - **Q&A system** – Users can post, search, and answer questions and comment on existing answers  
 - **Sorting & Filtering** – View questions by recent activity, unanswered status, and search by tags
 - **Voting system** – Upvote and downvote questions & answers for community-driven quality control
-- **Custom Hooks & Factory Pattern** – Modularized UI logic and routing management  
 - **RESTful APIs** – CRUD operations for questions, answers, and user interactions  
-- **Pagination & Form Validation** – Ensuring structured data input and smooth navigation  
+- **Pagination & Form Validation** – Ensuring structured data input and smooth navigation
+- **Custom Hooks & Factory Pattern** – Modularized UI logic and routing management  
 - **End-to-End Testing with Cypress** – Validating UI behavior and core functionalities   
 
 ## Tech Stack  

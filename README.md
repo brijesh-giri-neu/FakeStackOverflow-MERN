@@ -2,7 +2,7 @@
 
 A full-stack Q&A web application inspired by Stack Overflow, built using the **MERN stack** (MongoDB, Express, React, Node.js). It replicates the core functionality of StackOverflow to provide a dynamic space for developers to ask questions, share knowledge, and engage in discussions.
 
-## 🚀 Features  
+## Features  
 - **User-friendly Q&A system** – Users can post, search, and answer questions  
 - **Sorting & Filtering** – View questions by recent activity, unanswered status, and search by tags  
 - **Custom Hooks & Factory Pattern** – Modularized UI logic and routing management  
@@ -10,7 +10,7 @@ A full-stack Q&A web application inspired by Stack Overflow, built using the **M
 - **Pagination & Form Validation** – Ensuring structured data input and smooth navigation  
 - **End-to-End Testing with Cypress** – Validating UI behavior and core functionalities   
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 - **Frontend:** React, TypeScript, MVVM Architecture  
 - **Backend:** Node.js, Express.js, REST APIs  
 - **Database:** MongoDB  
@@ -18,7 +18,7 @@ A full-stack Q&A web application inspired by Stack Overflow, built using the **M
 - **Design Patterns:** Implements Command, Strategy, Observer, and Factory patterns to enhance maintainability
 - **Other Features:** Custom Hooks, Component-based UI, Routing Management
 
-## 📦 Installation & Setup  
+## Installation & Setup  
 
 1. **Clone the repository**  
    ```sh
@@ -45,19 +45,19 @@ A full-stack Q&A web application inspired by Stack Overflow, built using the **M
 
 5. **Open in browser:** `http://localhost:3000`
 
-## 🧪 Running Tests  
+## Running Tests  
 To run **end-to-end tests** with **Cypress**, use:  
 ```sh
 npm run test
 ```
 
-## 🎯 Future Enhancements  
+## Future Enhancements  
 - User authentication (JWT-based login/signup)  
 - Real-time updates with WebSockets  
 - Improved UI with Material-UI/Tailwind  
 
-## 🤝 Contributing  
+## Contributing  
 Feel free to submit issues or pull requests! 💡  
 
-## 📜 License  
+## License  
 MIT License  
